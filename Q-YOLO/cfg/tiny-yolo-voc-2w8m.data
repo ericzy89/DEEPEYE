@@ -1,0 +1,5 @@
+classes= 20
+train  = /home/liguangya/VOC/VOC/train.txt
+valid  = /home/liguangya/VOC/VOC/2007_test.txt
+names =  /home/liguangya/darknet_for_fpga/darknet/data/voc.names
+backup = backup_tiny_yolo_voc_2w8m
